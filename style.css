@@ -1,0 +1,9 @@
+body {
+    background-image: url('hell.png');
+    background-size: 100%;
+}
+
+.clock {
+    display: block;
+    margin: 0 auto;
+    }
